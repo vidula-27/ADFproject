@@ -1,0 +1,9 @@
+{
+	"name": "adfdemovidula",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "318bd1af-037c-4147-b344-870726fd76da",
+		"tenantId": "f78a5a84-125e-4858-97d6-48e424417cb1"
+	}
+}
