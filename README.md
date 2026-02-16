@@ -20,4 +20,6 @@ This project demonstrates a simple data ingestion pipeline using Azure Data Fact
 
 This pipeline was built to showcase basic ETL implementation and hands-on experience with Azure Data Factory components.
 
+![ADF Pipeline](https://raw.githubusercontent.com/vidula-27/ADFproject/main/adf%20pipeline.png)
+
 
